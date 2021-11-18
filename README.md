@@ -1,3 +1,2 @@
 # demo-repo
-
-for practise
+This repository is made for practise purpose.
